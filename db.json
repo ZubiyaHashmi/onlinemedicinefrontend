@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "Id": 3,
+      "Name": "Dinesh",
+      "Salary": 5000,
+      "Department": "fesf",
+      "id": 3
+    },
+    {
+      "Id": 4,
+      "Name": "Dharsshan",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "dinesh",
+      "class": "ten",
+      "address": "1234 Rajastrret",
+      "email": "dinesh@gmail.com",
+      "city": "Chennai",
+      "password": "Dinesh123"
+    },
+    {
+      "Id": 6,
+      "Name": "Gowtham",
+      "Salary": 50000,
+      "Department": ".NET",
+      "id": 6
+    },
+    {
+      "Id": 10,
+      "Name": "Dharsshan",
+      "Salary": 100000,
+      "Department": "FSD",
+      "id": 7
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
